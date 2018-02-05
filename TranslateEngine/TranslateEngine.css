@@ -1,0 +1,47 @@
+.kalba{
+	margin: 0;
+	width:100%;
+	height: 100%;
+	float:center;
+	position:fixed;
+	overflow:auto;
+	background: url('../design/img/transparent-white.png') top center;
+}
+
+.kalba_tamsinimas{
+	background-color:#000000;
+	margin: 0;
+	width:100%;
+	height: 100%;
+	float:center;
+	position:fixed;
+	overflow:auto;
+	border:1px red solid;
+	opacity: 0.5;
+	filter: alpha(opacity=70); /* For IE8 and earlier */
+}
+
+.kalba_vidurys {
+
+	background: url('../design/img/transparent-black2.png') top center;
+	border-radius: 9px;
+	margin: 7px 0;
+	padding: 6px 0;
+	margin:400px auto;
+	width:500px;
+}
+
+.kalba_vidurys h1 {
+	background: url('../design/img/img.png') top center;
+	background-position: 0px -130px;
+	line-height: 24px;
+	padding: 0 13px;
+	font-weight: bold;
+	color: #fdcc16;
+	font-size: 12px;
+}
+
+.kalba_vidurys p {
+	padding: 12px 14px;
+	margin: 0;
+}

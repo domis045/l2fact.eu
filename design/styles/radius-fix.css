@@ -1,0 +1,63 @@
+#header_table a:hover 
+{
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-khtml-border-radius:3px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+#leftside .box 
+{
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	-khtml-border-radius:9px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+#leftside .text 
+{
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	-khtml-border-radius:9px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+#leftside .textbox 
+{
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	-khtml-border-radius:9px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+#rightside 
+{ 
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	-khtml-border-radius:9px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+
+.news 
+{
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	-khtml-border-radius:9px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+.imgopacity img {
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	behavior: url(design/styles/border-radius.html);
+}
+
+#footer 
+{
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	-khtml-border-radius:9px;
+	behavior: url(design/styles/border-radius.html);
+}
